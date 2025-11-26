@@ -1,10 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 streamlit
 torch
 torchvision
 timm
 numpy
 pillow
-opencv-python
+opencv-python-headless==4.7.0.72
 matplotlib
 pandas
 fpdf
