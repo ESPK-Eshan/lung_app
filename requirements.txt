@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+timm
+numpy
+pillow
+opencv-python
+matplotlib
+pandas
+fpdf
+scipy
