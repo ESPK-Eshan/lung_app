@@ -23,3 +23,5 @@ PDF report generator for each prediction
 Dark theme via .streamlit/config.toml
 
 Dataset Link- https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types
+
+<img width="2752" height="1317" alt="Gemini_Generated_Image_mowtenmowtenmowt" src="https://github.com/user-attachments/assets/5da5fe44-39f3-402a-af75-2d59e5566a2b" />
